@@ -15,8 +15,10 @@
 
 ## 👨🏻‍💻  About
 
-This API provides everything needed to organize appointments for a Barber Shop. </br>
-Customers can choose the best time available to them. </br>
+This API provides everything needed to organize appointments for a Barber Shop.
+
+Customers can choose the best time available to them.
+
 Providers can manage your appointments, organize your agenda and receive notifications about schedule changes.
 
 To see the **API**, click here: [GoBarber API](https://github.com/wladimirgrf/gobarber-api) </br>
