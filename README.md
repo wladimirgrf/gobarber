@@ -9,6 +9,7 @@
 <p align="center">The best way to schedule your service!</p>
 
 <p align="center">
+  <img alt="Made by" src="https://img.shields.io/badge/made%20by-Wladimir%20F-blue?color=%23FF9000">
   <img alt="GitHub" src="https://img.shields.io/github/license/wladimirgrf/gobarber?color=%23FF9000">
 </p>
 
