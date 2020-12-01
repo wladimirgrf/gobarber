@@ -15,7 +15,7 @@
 
 ## 👨🏻‍💻  About
 
-This API provides everything needed to organize appointments for a Barber Shop.
+This Application provides everything needed to organize appointments for a Barber Shop.
 
 Customers can choose the best time available to them.
 
