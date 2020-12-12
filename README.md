@@ -13,6 +13,10 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/wladimirgrf/gobarber?color=%23FF9000">
 </p>
 
+<p align="center">
+  <img alt="APPLICATION" src=".github/assets/gobarber_application.png">
+</p>
+
 ## 👨🏻‍💻  About
 
 This application provides everything needed to organize appointments for a Barber Shop.
