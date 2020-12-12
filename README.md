@@ -21,9 +21,7 @@
 
 This application provides everything needed to organize appointments for a Barber Shop.
 
-Customers can choose the best time available to them.
-
-Providers can manage your appointments, organize your agenda and receive notifications about schedule changes.
+Set up an appointment with your barber 24/7 with just a few taps.
 
 To see the **API**, click here: [GoBarber API](https://github.com/wladimirgrf/gobarber-api) </br>
 To see the **Web System**, click here: [GoBarber Web](https://github.com/wladimirgrf/gobarber-web) </br>
